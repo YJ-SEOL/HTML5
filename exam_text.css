@@ -1,0 +1,13 @@
+body > li:nth-child(1){
+    color : white;
+    font-size: 2rem;
+    background-color: violet;
+}
+
+.li {
+    color: white;
+    border: 20px  30px;
+    padding: 0 20px;
+    background-color: skyblue;
+    font-size: 2rem;
+}
