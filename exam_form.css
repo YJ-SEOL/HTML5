@@ -1,0 +1,53 @@
+#text {
+    background-color: coral;
+    color: white;
+    border-color: blueviolet;
+}
+
+#mail {
+    background-color: tomato;
+    color: white;
+    border-color: blueviolet;
+}
+
+#birth {
+    background-color: orange;
+    border-color: blueviolet;
+}
+
+#month {
+    background-color: lightgreen;
+    border-color: blueviolet;
+}
+
+#birth_mm:hover {
+    background-color:skyblue;
+    border-color: blueviolet;
+}
+
+#submit{
+   background-color: pink;
+   border-radius: 10px;
+   border: solid hotpink;
+   width: 200px;
+   font: 20px;
+}
+
+fieldset{
+    background-image: url(../img/leaves.png), url(../img/cat.jpg);
+    background-size:100% 250PX;
+    /* background-size: cover; */
+    border: thick dashed gray;
+    border-radius: 10px;
+    /* width: 800px;
+    height: 400px; */
+}
+
+legend{
+    font-size: 30px;
+    margin: 30px;
+    border: medium solid gray;
+    background-color: gray;
+    /* border-radius: 20px; */
+    color: white;
+}
