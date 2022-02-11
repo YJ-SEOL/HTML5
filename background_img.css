@@ -1,0 +1,9 @@
+body {
+    background-image: url('../img/cinque_terre.png');
+}
+
+h1 {
+    color : rgb(103, 103, 238);
+}
+
+p { color: rgba(103, 103, 238, 0.5);}
