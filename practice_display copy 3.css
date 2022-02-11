@@ -1,0 +1,13 @@
+#firstSentence{
+    background-color: yellow;
+    display:block;
+}
+#secondSentence{
+    background-color: skyblue;
+    display:block;
+    visibility:hidden
+}
+#thirdSentence{
+    background-color: lightcoral;
+    display:block;
+}
