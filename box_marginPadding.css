@@ -1,0 +1,16 @@
+div {
+    width: 150px; 
+    height: 100px;
+    background-color: tomato;
+    
+    /* 너비 스타일 색 */
+    border: 10px solid plum;
+    /* margin: 위 오른쪽 아래 왼쪽 */
+    margin: 0 50px 0 50px;
+    /* padding: 위 오른쪽 아래 왼쪽 */
+    padding: 0 50px 0 50px;
+
+    /* 배경 속성
+    background-image: url('../img/cat.jpg');
+    background-size: 250px, 100px; */
+}
