@@ -1,0 +1,6 @@
+.box {
+    border-width: thick;
+    border-style: dashed;
+    border-color: skyblue;
+    border-radius: 40px;
+}
